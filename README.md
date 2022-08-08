@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justbin9527
 - 👀 I’m interested in magic 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on gurobi code
+- 💞️ I’m looking to collaborate on gurobipy code
 - 📫 How to reach me (github is there)
 
 <!---
